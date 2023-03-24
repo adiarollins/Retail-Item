@@ -6,6 +6,7 @@ unitsOnHand. The unitsOnHand field is an int variable that holds the number of u
 price. The price field is a double that holds the item’s retail price.
 
 Once you have written the class, write a separate program that creates three RetailItem objects and stores the following data in them:
-    "\n" item1 => "Jacket", 12, 59.95
-    "\n" item2 => "Designer Jeans", 40, 34.95
-    "\n" item3 => "Shirt", 20, 24.95
+
+    item1 => "Jacket", 12, 59.95
+    item2 => "Designer Jeans", 40, 34.95
+    item3 => "Shirt", 20, 24.95
